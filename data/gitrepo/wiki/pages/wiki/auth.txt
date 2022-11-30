@@ -1,0 +1,28 @@
+# Authentication
+
+## Local Authentication
+
+Currently this wiki is setup for local authentication it uses the following plugins to try and avoid spam
+
+  * https://www.dokuwiki.org/plugin:preregister
+  * https://www.dokuwiki.org/plugin:captcha
+
+
+## Hacspace Authentation
+
+If we want this to work with the manchester hackspace login instead then we'll need to be able to authenticate with the existing setup.  
+
+According to Connor
+> So the system uses standard laravel authentication to log in (laravel being the php framework the site is built in)  
+> and for the forum SSO I just coded something which follows their guide here  
+> https://meta.discourse.org/t/setup-discourseconnect-official-single-sign-on-for-discourse-sso/13045
+
+## Links
+
+Full list of auth based plugins
+
+  * https://www.dokuwiki.org/plugins?plugintype=128#extension__table
+
+Subset list of OAUTH plugins
+
+  * https://www.dokuwiki.org/plugin:oauth

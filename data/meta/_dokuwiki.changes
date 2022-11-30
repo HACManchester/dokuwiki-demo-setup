@@ -1,0 +1,241 @@
+1669423531	192.168.111.66	C	test	ric	created		60
+1669423611	192.168.111.66	E	test	ric			23
+1669423697	192.168.111.66	E	test	ric			-1
+1669424995	192.168.111.66	E	test	ric			305
+1669425465	192.168.111.66	E	test	ric			32
+1669425749	192.168.111.66	E	test	ric	[test2] 		-31
+1669425805	192.168.111.66	E	test	ric			-1
+1669425818	192.168.111.66	C	sidebar	ric	created		34
+1669425923	192.168.111.66	E	sidebar	ric			8
+1669426016	192.168.111.66	E	sidebar	ric			6
+1669426112	192.168.111.66	E	sidebar	ric			-5
+1669426145	192.168.111.66	C	wiki:dokuwiki:start	ric	created		7
+1669426161	192.168.111.66	D	wiki:dokuwiki:start	ric	removed		-7
+1669426183	192.168.111.66	C	wiki:start	ric	created		7
+1669426211	192.168.111.66	E	sidebar	ric			-8
+1669427564	192.168.111.66	E	test	ric			121
+1669428240	192.168.111.66	E	test	ric			-1
+1669428402	192.168.111.66	E	sidebar	ric			26
+1669428966	192.168.111.66	E	test	ric			282
+1669459311	192.168.111.66	E	test	ric			11
+1669459361	192.168.111.66	E	test	ric			-1
+1669462398	192.168.111.66	E	test	ric			2
+1669484737	192.168.111.66	E	sidebar	ric			14
+1669493412	192.168.111.66	E	test	ric			37
+1669503918	192.168.111.66	E	test	ric			-28
+1669505340	192.168.111.66	E	test	ric			23
+1669506231	192.168.111.66	E	test	ric			26
+1669506357	192.168.111.66	E	test	ric			1
+1669508991	192.168.111.66	E	test	ric			2161
+1669509498	192.168.111.66	E	sidebar	ric			0
+1669509656	192.168.111.66	E	sidebar	ric			0
+1669513021	192.168.111.66	E	test	ric			-19
+1669553318	192.168.111.66	E	test	ric			14
+1669554666	192.168.111.66	E	test	ric			-1
+1669564164	192.168.111.66	E	test	ric	[Hacman Group Chat] 		1
+1669564180	192.168.111.66	E	test	ric			-1
+1669564261	192.168.111.66	C	webdev:tools	ric	created		1005
+1669566367	192.168.111.66	E	webdev:tools	ric			86
+1669567832	192.168.111.66	E	webdev:tools	ric			-87
+1669568028	192.168.111.66	D	webdev:tools	ric	removed		-1004
+1669568035	192.168.111.66	C	webdev:tools:stylelint	ric	created		1004
+1669573245	192.168.111.66	C	wiki:plugins	ric	created		200
+1669573348	192.168.111.66	D	wiki:welcome	ric	removed		-1705
+1669573388	192.168.111.66	E	wiki:plugins	ric			70
+1669573474	192.168.111.66	E	wiki:plugins	ric			131
+1669573646	127.0.0.1	D	wiki:syntax		removed - external edit (Unknown date)		-22666
+1669573647	192.168.111.66	C	wiki:syntax	ric	created		415
+1669573659	192.168.111.66	E	wiki:syntax	ric			7
+1669573775	192.168.111.66	E	wiki:syntax	ric			171
+1669573793	192.168.111.66	E	wiki:syntax	ric			27
+1669573865	192.168.111.66	E	wiki:syntax	ric			18
+1669574067	192.168.111.66	C	wiki:auth	ric	created		657
+1669574106	192.168.111.66	D	playground:playground	ric	removed		-25
+1669574340	192.168.111.66	C	wiki:syntax:sidebar	ric	created		4
+1669574345	192.168.111.66	D	wiki:syntax:sidebar	ric	removed		-4
+1669574388	192.168.111.66	D	wiki:syntax	ric	removed		-638
+1669574395	192.168.111.66	C	wiki:mdsyntax	ric	created		638
+1669574405	192.168.111.66	D	wiki:mdsyntax	ric	removed		-638
+1669574413	192.168.111.66	C	wiki:syntaxmd	ric	created		638
+1669574528	192.168.111.66	C	wiki:layout	ric	created		278
+1669574547	192.168.111.66	E	wiki:layout	ric			2
+1669574689	192.168.111.66	E	wiki:layout	ric			459
+1669574731	192.168.111.66	E	wiki:layout	ric	[New Page] 		53
+1669574749	192.168.111.66	E	wiki:layout	ric			15
+1669574862	192.168.111.66	E	wiki:layout	ric			231
+1669574883	192.168.111.66	D	wiki:syntaxmd	ric	removed		-638
+1669574897	192.168.111.66	C	wiki:markdown	ric	created		642
+1669575027	192.168.111.66	E	wiki:start	ric			179
+1669575053	192.168.111.66	E	wiki:start	ric			29
+1669575093	192.168.111.66	E	wiki:markdown	ric			-389
+1669575325	192.168.111.66	C	wiki:dokusyntax	ric	created		764
+1669575388	192.168.111.66	E	wiki:dokusyntax	ric			41
+1669575430	192.168.111.66	E	wiki:plugins	ric			16
+1669575497	192.168.111.66	E	wiki:layout	ric			67
+1669575521	192.168.111.66	E	sidebar	ric			-42
+1669575655	192.168.111.66	E	wiki:layout	ric			349
+1669575678	192.168.111.66	E	wiki:layout	ric	[Overriding the Sidebar] 		49
+1669575723	192.168.111.66	C	wiki:themes	ric	created		16
+1669575744	192.168.111.66	E	wiki:start	ric			23
+1669576137	192.168.111.66	E	wiki:themes	ric			1124
+1669576178	192.168.111.66	E	wiki:themes	ric			87
+1669576216	192.168.111.66	E	wiki:themes	ric			71
+1669576281	192.168.111.66	E	wiki:themes	ric			173
+1669576297	192.168.111.66	D	test	ric	removed		-3015
+1669576312	192.168.111.66	C	start	ric	created		14
+1669576322	192.168.111.66	E	start	ric			2
+1669576436	192.168.111.66	E	wiki:markdown	ric			309
+1669576471	192.168.111.66	E	wiki:markdown	ric	[New lines] 		5
+1669576498	192.168.111.66	E	wiki:markdown	ric			-1
+1669577160	192.168.111.66	E	wiki:start	ric			101
+1669678128	192.168.111.66	C	test	ric	created		140
+1669678333	192.168.111.66	E	test	ric			-87
+1669678789	192.168.111.66	E	test	ric			50
+1669678943	192.168.111.66	E	test	ric			-64
+1669680638	192.168.111.66	E	test	ric			167
+1669680708	192.168.111.66	E	test	ric			6
+1669680839	192.168.111.66	E	test	ric			-205
+1669680940	192.168.111.66	E	test	ric			138
+1669681044	192.168.111.66	E	test	ric			646
+1669681210	192.168.111.66	E	test	ric			-761
+1669684509	192.168.111.66	E	wiki:start	ric			138
+1669684631	192.168.111.66	E	wiki:start	ric			235
+1669718853	192.168.111.66	E	wiki:start	ric			21
+1669719370	192.168.111.66	E	test	ric			6
+1669719496	192.168.111.66	E	test	ric			2
+1669719663	192.168.111.66	E	test	ric			-11
+1669719857	192.168.111.66	E	test	ric			5
+1669720115	192.168.111.66	E	test	ric			-20
+1669720347	192.168.111.66	E	test	ric			-1
+1669720423	192.168.111.66	E	test	ric			-4
+1669730288	192.168.111.66	C	wiki:intro	ric	created		546
+1669730553	192.168.111.66	E	wiki:intro	ric			132
+1669730601	192.168.111.66	E	wiki:auth	ric			54
+1669730667	192.168.111.66	E	wiki:auth	ric			206
+1669731075	192.168.111.66	E	wiki:intro	ric			1175
+1669731102	192.168.111.66	E	wiki:intro	ric			-18
+1669731131	192.168.111.66	E	wiki:intro	ric			-17
+1669731295	192.168.111.66	E	wiki:intro	ric			84
+1669731969	192.168.111.66	E	wiki:intro	ric			6
+1669732078	192.168.111.66	E	wiki:intro	ric			127
+1669732108	192.168.111.66	E	wiki:intro	ric			4
+1669732200	192.168.111.66	E	wiki:intro	ric			182
+1669732338	192.168.111.66	E	wiki:intro	ric			26
+1669732441	192.168.111.66	E	wiki:intro	ric			161
+1669732744	192.168.111.66	E	wiki:intro	ric			274
+1669732847	192.168.111.66	E	wiki:markdown	ric			-58
+1669732872	192.168.111.66	D	wiki:dokusyntax	ric	removed		-805
+1669732879	192.168.111.66	C	wiki:syntax	ric	created		805
+1669732971	192.168.111.66	E	wiki:intro	ric			303
+1669732987	192.168.111.66	D	wiki:markdown	ric	removed		-508
+1669733076	192.168.111.66	E	wiki:syntax	ric			311
+1669733084	192.168.111.66	E	wiki:syntax	ric			-1
+1669733113	192.168.111.66	E	wiki:start	ric			-48
+1669733201	192.168.111.66	E	wiki:intro	ric			193
+1669733533	192.168.111.66	E	wiki:intro	ric			21
+1669733888	192.168.111.66	E	wiki:syntax	ric			405
+1669733978	192.168.111.66	E	wiki:plugins	ric			233
+1669734016	192.168.111.66	E	wiki:plugins	ric			-6
+1669734076	192.168.111.66	E	wiki:plugins	ric			248
+1669734382	192.168.111.66	E	wiki:plugins	ric			6
+1669734404	192.168.111.66	E	wiki:start	ric			-24
+1669734452	192.168.111.66	E	wiki:plugins	ric			153
+1669734463	192.168.111.66	E	wiki:plugins	ric			6
+1669734486	192.168.111.66	E	wiki:plugins	ric			1
+1669734659	192.168.111.66	E	wiki:themes	ric			207
+1669734991	192.168.111.66	E	wiki:plugins	ric			42
+1669735017	192.168.111.66	E	wiki:plugins	ric			44
+1669735141	192.168.111.66	E	wiki:plugins	ric			395
+1669738635	192.168.111.66	E	wiki:plugins	ric			-96
+1669738822	192.168.111.66	E	wiki:plugins	ric			72
+1669738921	192.168.111.66	E	wiki:plugins	ric			-11
+1669739038	192.168.111.66	E	wiki:plugins	ric			296
+1669739279	192.168.111.66	E	wiki:plugins	ric			56
+1669739378	192.168.111.66	E	wiki:plugins	ric			577
+1669739476	192.168.111.66	E	wiki:plugins	ric			229
+1669739543	192.168.111.66	E	wiki:plugins	ric			94
+1669739691	192.168.111.66	E	wiki:plugins	ric			429
+1669739804	192.168.111.66	E	wiki:plugins	ric			251
+1669739959	192.168.111.66	E	wiki:plugins	ric			145
+1669740045	192.168.111.66	E	wiki:plugins	ric			427
+1669740092	192.168.111.66	E	wiki:plugins	ric			50
+1669741076	192.168.111.66	E	wiki:start	ric			-73
+1669756352	192.168.111.66	E	wiki:start	ric			-76
+1669757701	192.168.111.66	E	wiki:start	ric			-52
+1669758426	192.168.111.66	E	wiki:start	ric			124
+1669758894	192.168.111.66	E	health-safety:asbestos	ric			35
+1669759029	192.168.111.66	E	sidebar	ric			41
+1669759052	192.168.111.66	E	sidebar	ric			-40
+1669759125	192.168.111.66	E	wiki:start	ric			-124
+1669763653	192.168.111.66	E	wiki:intro	ric			369
+1669763832	192.168.111.66	E	wiki:intro	ric			12
+1669763936	192.168.111.66	E	health-safety:ppe_fire_supplies	ric			-146
+1669767100	192.168.111.66	E	sidebar	ric			0
+1669767375	192.168.111.66	E	test	ric			10
+1669768264	192.168.111.66	E	sidebar	ric			5
+1669768288	192.168.111.66	E	sidebar	ric			2
+1669768714	192.168.111.66	C	telegram	ric	created		3019
+1669768730	192.168.111.66	D	test	ric	removed		-17
+1669768805	192.168.111.66	C	contacts	ric	created		2077
+1669768869	192.168.111.66	C	space-todo	ric	created		885
+1669768878	192.168.111.66	E	space-todo	ric			-1
+1669768914	192.168.111.66	C	links	ric	created		616
+1667682217	127.0.0.1	C	workshop:start		created - external edit		5118
+1669843306	192.168.111.66	E	workshop:start	ric			-142
+1667682216	127.0.0.1	C	membership:members-storage		created - external edit		6562
+1669843437	192.168.111.66	E	membership:members-storage	ric			-180
+1669843478	192.168.111.66	E	membership:members-storage	ric			-45
+1667682216	127.0.0.1	C	health-safety:ppe		created - external edit		523
+1669843546	192.168.111.66	E	health-safety:ppe	ric			-56
+1669757739	127.0.0.1	C	membership:rfid-setup		created - external edit		1877
+1669843687	192.168.111.66	E	membership:rfid-setup	ric			-101
+1669843761	192.168.111.66	E	membership:rfid-setup	ric			-106
+1669576323	127.0.0.1	E	start		external edit (Unknown date)		1947
+1669843831	192.168.111.66	E	start	ric			-49
+1667682216	127.0.0.1	C	membership:user-guide		created - external edit		7464
+1669843940	192.168.111.66	E	membership:user-guide	ric			-122
+1669844241	192.168.111.66	E	wiki:syntax	ric			98
+1667682217	127.0.0.1	C	workshop:metalwork:equipment:lathes:warco-tools		created - external edit		963
+1669844365	192.168.111.66	E	workshop:metalwork:equipment:lathes:warco-tools	ric			-53
+1667682217	127.0.0.1	C	workshop:metalwork:equipment:lathes:warco-feed		created - external edit		5644
+1669844496	192.168.111.66	E	workshop:metalwork:equipment:lathes:warco-feed	ric			-54
+1669844503	192.168.111.66	E	workshop:metalwork:equipment:lathes:warco-feed	ric			1
+1669844530	192.168.111.66	E	workshop:metalwork:equipment:lathes:warco-feed	ric			4
+1667682741	127.0.0.1	C	workshop:metalwork:equipment:angle-grinder		created - external edit		1318
+1669844613	192.168.111.66	E	workshop:metalwork:equipment:angle-grinder	ric			-63
+1669844729	192.168.111.66	C	workshop:metalwork:signs	ric	created		9
+1667682217	127.0.0.1	C	workshop:woodwork:equipment:bandsaws		created - external edit		3020
+1669845091	192.168.111.66	E	workshop:woodwork:equipment:bandsaws	ric			-74
+1667682217	127.0.0.1	C	workshop:woodwork:equipment:mitre-saw		created - external edit		3808
+1669845162	192.168.111.66	E	workshop:woodwork:equipment:mitre-saw	ric			-79
+1669845181	192.168.111.66	E	workshop:woodwork:equipment:mitre-saw	ric			1
+1667682217	127.0.0.1	C	workshop:woodwork:equipment:pillar-drill		created - external edit		3750
+1669845239	192.168.111.66	E	workshop:woodwork:equipment:pillar-drill	ric			-28
+1667682217	127.0.0.1	C	workshop:woodwork:equipment:table-saw		created - external edit		3870
+1669845295	192.168.111.66	E	workshop:woodwork:equipment:table-saw	ric			-80
+1667682217	127.0.0.1	C	workshop:visual-arts:equipment:laser-cutter		created - external edit		18201
+1669845406	192.168.111.66	E	workshop:visual-arts:equipment:laser-cutter	ric			-220
+1667682216	127.0.0.1	C	workshop:general:instruction-manuals		created - external edit		1217
+1669845645	192.168.111.66	E	workshop:general:instruction-manuals	ric			-24
+1669845736	192.168.111.66	E	workshop:general:instruction-manuals	ric			9
+1669845838	192.168.111.66	E	workshop:general:instruction-manuals	ric			0
+1669845895	192.168.111.66	E	workshop:general:instruction-manuals	ric			33
+1669845953	192.168.111.66	E	workshop:general:instruction-manuals	ric			19
+1669846041	192.168.111.66	E	workshop:general:instruction-manuals	ric			3
+1669846116	192.168.111.66	E	workshop:general:instruction-manuals	ric			1
+1669846183	192.168.111.66	E	workshop:general:instruction-manuals	ric			-1
+1669846250	192.168.111.66	E	workshop:general:instruction-manuals	ric			3
+1669846303	192.168.111.66	E	workshop:general:instruction-manuals	ric			-1
+1669846371	192.168.111.66	E	workshop:general:instruction-manuals	ric			14
+1669846438	192.168.111.66	E	workshop:general:instruction-manuals	ric			2
+1669846494	192.168.111.66	E	workshop:general:instruction-manuals	ric			2
+1669846589	192.168.111.66	E	workshop:general:instruction-manuals	ric			-59
+1669846664	192.168.111.66	E	workshop:general:instruction-manuals	ric			64
+1669846715	192.168.111.66	E	workshop:general:instruction-manuals	ric			86
+1669846777	192.168.111.66	E	workshop:general:instruction-manuals	ric			56
+1669846828	192.168.111.66	E	workshop:general:instruction-manuals	ric			52
+1669846878	192.168.111.66	E	workshop:general:instruction-manuals	ric			107
+1669846935	192.168.111.66	E	workshop:general:instruction-manuals	ric			53
+1669846977	192.168.111.66	E	workshop:general:instruction-manuals	ric			60
+1669849197	192.168.111.66	D	wiki:intro	ric	removed		-3580
+1669851939	192.168.111.66	E	wiki:start	hacmanadmin			-269

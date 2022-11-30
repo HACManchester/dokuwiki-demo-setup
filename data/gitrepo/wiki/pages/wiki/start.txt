@@ -1,0 +1,12 @@
+# Wiki Setup
+
+## Configuration
+
+  * [[.auth|Authentication Setup]]
+  * [[.plugins|Plugins]]
+  * [[.themes|Themes]]
+
+## Editing Pages
+
+  * [[.layout|Page Layouts]]
+  * [[.syntax|Wiki Syntax]]

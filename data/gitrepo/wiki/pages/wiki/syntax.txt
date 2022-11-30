@@ -1,0 +1,48 @@
+# Wiki Syntax
+
+The pages are set to render everything inside as markdown by default using the CommonMark plugin.  
+There is a way to specify native dokuwiki syntax as well though within the markdown.  
+This means we can use markdown as a default but also add in any special plugin controls as well as a bonus.
+
+To render native dokuwiki syntax we need to use a code fence block labled with the `dokuwiki` name  
+Some controls / plugins don't require this depending on how they're written / the syntax used.
+
+~~~
+```dokuwiki
+# Dokuwiki syntax goes here
+```
+~~~
+
+Markdown is a more modern syntax currently used on github and also the same one used on the discourse mailing list website we're using.
+
+  * https://www.markdownguide.org/basic-syntax/
+  * https://www.markdownguide.org/getting-started/
+  * https://www.markdownguide.org/cheat-sheet/
+
+## New lines
+
+With markdown by default if you place one line of text directly below another one.
+Then both will be joined together without a newline but with a space such as this paragraph.
+
+To force a newline add a double space at the end of the line `  `  
+This will force the newline at the end of a line within a paragraph
+
+## Links
+
+The normal syntax for markdown links is
+```
+[Plugins](.:plugins)
+```
+We can also use the dokuwiki syntax for links as well (which I admit is back to front compared to the above)
+```
+[[Plugins|.:plugins]]
+```
+
+## Fixme
+
+One of the inbuilt controls that still works without any code fences is the Fixme label.  
+If we write the text `FIXME` in all capitals the end result is FIXME
+
+## Plugins
+
+For the rest see the [[.:plugins]] section

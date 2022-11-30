@@ -1,0 +1,41 @@
+# Instruction Manuals
+
+List of current Instruction Manuals for Various Tools
+(Note this list is not complete)
+
+## Woodworking
+
+  * {{ :workshop:general:bandsaw_green.pdf |Green Bandsaw}}
+  * {{ :workshop:general:bandsaw_red.pdf |Red Bandsaw}}
+  * {{ :workshop:general:planer_thicknesser.pdf |Planer/Thicknesser}}
+  * {{ :workshop:general:router-woodworking.pdf |Router(Woodworking)}}
+  * {{ :workshop:general:wood_lathe.pdf |Wood Lathe}}
+  * {{ :workshop:general:tablesaw_evolution.pdf |Evolution Tablesaw}}
+  * {{ :workshop:general:ts_2500_ci.pdf |Big Table Saw}}
+  * {{ :workshop:general:dw708.pdf |Dewalt Chopsaw}}
+  * {{ :workshop:general:cde7b.pdf |Dust Extractor}}
+
+## Metalworking
+
+  * {{ :workshop:general:metal_lathe_ml7.pdf |Metal Lathe Myford ML7}}
+  * {{ :workshop:general:sander_cbs15.pdf |Clarke CBS15 Sander}}
+  * {{ :workshop:general:warco-lathe-220.pdf |Warco Lathe 220}}
+
+## Visual Arts
+
+  * {{ :workshop:general:sewingmachine_lervia.pdf |Sewing Machine - Lervia}}
+  * {{ :workshop:general:singer4423manual.pdf |Sewing Machine - Singer}}
+  * {{ :workshop:general:singerquickstartguide4432.pdf |Sewing Machine - Singer Getting Started}}
+  * {{ :workshop:general:singeroverlocker14sh754instructions.pdf |Overlocker - Singer Getting Started}}
+  * {{ :workshop:general:vacuum_former.pdf |Vaccum Former}}
+  * {{ :workshop:general:yf10-1215_multifunction_heat_press_machine.pdf |Heat Press}}
+
+## Electronics
+
+  * {{ :workshop:general:duratool_d00672_de-soldering_station.pdf |Delsoldering Station}}
+
+## General
+
+  * {{ :workshop:general:sa2250-2.v2.pdf |Air Compressor}}
+  * {{ :workshop:general:10329.pdf |Air Compressor}}
+  * {{ :workshop:general:cdp5dd_5r.pdf |Bench Drill Press}}

@@ -1,0 +1,37 @@
+# Themes
+
+Typically themes are called **templates** within dokuwiki
+
+## Bootstrap3 Template
+
+The current theme we're using is based on the bootstrap3 template / plugin.  
+We're currently using the bootswatch slate theme that's been modified a bit to tidy things up on dokuwiki.
+
+  * https://www.dokuwiki.org/template:bootstrap3
+
+To be fair this is a bit old and crusty since bootstrap is now on version 5.  
+But it does seem to work well / look nice and writing a new one would mean editing a lot of php probably.
+
+If we wanted to use a different theme other than slate then there's a few listed in the bootswatch for bootstrap 3 we could use.  
+Although personally I think the darker ones look cooler. There are one or two customisations I've added in but those could be copied / pasted over.
+
+  * https://bootswatch.com/3/
+
+The path to the customised css is `wiki\lib\tpl\bootstrap3\assets\custom\bootstrap.min.css` with some content added to the bottom of that file.  
+The plugin did have an option for a theme switcher, but it seems broken at the moment due to the newer dokuwiki moving to lazy loading it's JS in an async way I think.  
+I suspect it could be added back in if someone wanted to mess around a bit coding php.
+
+## Index Menu
+
+The index menu has options for different types of icon, currently we're using the whiteblack one
+```
+{{indexmenu>:|navbar js#wb.png}}
+```
+
+There's a full list of all of them in this directory `wiki\lib\plugins\indexmenu\images`
+
+
+## Forcing a cache refresh
+
+To force the site to refresh it's cache when editing CSS.  
+Edit then slightly change the `wiki/conf/local.php` file (usually just a newline or remove a newline from the end.

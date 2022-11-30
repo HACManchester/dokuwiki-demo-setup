@@ -1,0 +1,32 @@
+2022-11-27 18:21:05	/volume1/web/wiki/lib/plugins/gitbacked/action/editcommit.php(93)	Exception: Git committing or pushing failed: fatal: pathspec '/volume1/web/wiki/data/pages/wiki/dokuwiki.txt' did not match any files
+
+  #0 /volume1/web/wiki/lib/plugins/gitbacked/action/editcommit.php(209): action_plugin_gitbacked_editcommit->commitFile('/volume1/web/wi...', 'Wiki page dokuw...')
+  #1 /volume1/web/wiki/inc/Extension/EventHandler.php(81): action_plugin_gitbacked_editcommit->handle_io_wikipage_write(Object(dokuwiki\Extension\Event), NULL)
+  #2 /volume1/web/wiki/inc/Extension/Event.php(96): dokuwiki\Extension\EventHandler->process_event(Object(dokuwiki\Extension\Event), 'AFTER')
+  #3 /volume1/web/wiki/inc/Extension/Event.php(136): dokuwiki\Extension\Event->advise_after()
+  #4 /volume1/web/wiki/inc/Extension/Event.php(199): dokuwiki\Extension\Event->trigger(NULL, false)
+  #5 /volume1/web/wiki/inc/File/PageFile.php(170): dokuwiki\Extension\Event::createAndTrigger('IO_WIKIPAGE_WRI...', Array)
+  #6 /volume1/web/wiki/inc/common.php(1269): dokuwiki\File\PageFile->saveWikiText('', '', false)
+  #7 /volume1/web/wiki/inc/Action/Save.php(55): saveWikiText('wiki:dokuwiki', '', '', false)
+  #8 /volume1/web/wiki/inc/ActionRouter.php(83): dokuwiki\Action\Save->preProcess()
+  #9 /volume1/web/wiki/inc/ActionRouter.php(48): dokuwiki\ActionRouter->setupAction('save')
+  #10 /volume1/web/wiki/inc/ActionRouter.php(60): dokuwiki\ActionRouter->__construct()
+  #11 /volume1/web/wiki/inc/actions.php(16): dokuwiki\ActionRouter::getInstance(true)
+  #12 /volume1/web/wiki/doku.php(126): act_dispatch()
+  #13 {main}
+2022-11-27 18:21:27	/volume1/web/wiki/lib/plugins/gitbacked/action/editcommit.php(93)	Exception: Git committing or pushing failed: fatal: pathspec '/volume1/web/wiki/data/pages/wiki/syntax.txt' did not match any files
+
+  #0 /volume1/web/wiki/lib/plugins/gitbacked/action/editcommit.php(209): action_plugin_gitbacked_editcommit->commitFile('/volume1/web/wi...', 'Wiki page synta...')
+  #1 /volume1/web/wiki/inc/Extension/EventHandler.php(81): action_plugin_gitbacked_editcommit->handle_io_wikipage_write(Object(dokuwiki\Extension\Event), NULL)
+  #2 /volume1/web/wiki/inc/Extension/Event.php(96): dokuwiki\Extension\EventHandler->process_event(Object(dokuwiki\Extension\Event), 'AFTER')
+  #3 /volume1/web/wiki/inc/Extension/Event.php(136): dokuwiki\Extension\Event->advise_after()
+  #4 /volume1/web/wiki/inc/Extension/Event.php(199): dokuwiki\Extension\Event->trigger(NULL, false)
+  #5 /volume1/web/wiki/inc/File/PageFile.php(170): dokuwiki\Extension\Event::createAndTrigger('IO_WIKIPAGE_WRI...', Array)
+  #6 /volume1/web/wiki/inc/common.php(1269): dokuwiki\File\PageFile->saveWikiText('', '', false)
+  #7 /volume1/web/wiki/inc/Action/Save.php(55): saveWikiText('wiki:syntax', '', '', false)
+  #8 /volume1/web/wiki/inc/ActionRouter.php(83): dokuwiki\Action\Save->preProcess()
+  #9 /volume1/web/wiki/inc/ActionRouter.php(48): dokuwiki\ActionRouter->setupAction('save')
+  #10 /volume1/web/wiki/inc/ActionRouter.php(60): dokuwiki\ActionRouter->__construct()
+  #11 /volume1/web/wiki/inc/actions.php(16): dokuwiki\ActionRouter::getInstance(true)
+  #12 /volume1/web/wiki/doku.php(126): act_dispatch()
+  #13 {main}

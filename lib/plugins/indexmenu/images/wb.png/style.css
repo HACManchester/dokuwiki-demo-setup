@@ -1,0 +1,11 @@
+.dtree {
+  color: rgb(200, 200, 200);
+}
+
+.dokuwiki .dtree a.nodeUrl:hover {
+  color: rgb(200, 200, 200);
+}
+
+.dokuwiki .dtree a:visited {
+  color: rgb(200, 200, 200);
+}

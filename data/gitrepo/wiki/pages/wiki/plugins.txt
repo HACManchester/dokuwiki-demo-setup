@@ -1,0 +1,203 @@
+# Plugins
+
+## bootswrapper
+
+Bootswrapper allows us to use some of the bootstrap controls within the page.
+
+  * https://www.dokuwiki.org/plugin:bootswrapper
+
+There's quite a few, so I'll just show the jumbotron.
+Note the syntax inside the control has to be dokuwiki syntax instead of markdown which limit's its use a bit.
+
+~~~
+```dokuwiki
+<jumbotron>
+===== Hello, world! =====
+
+This is a simple hero unit, a simple jumbotron-style 
+component for calling extra attention to featured
+content or information.
+</jumbotron>
+```
+~~~
+
+```dokuwiki
+<jumbotron>
+===== Hello, world! =====
+
+This is a simple hero unit, a simple jumbotron-style 
+component for calling extra attention to featured
+content or information.
+</jumbotron>
+```
+
+## cellbg
+
+cellbg allows us to control the background color of cells within tables
+
+  * https://www.dokuwiki.org/plugin:cellbg
+ 
+| Header1 | Header2  |
+|--|--|
+| @darkgreen:Row1-1 | Row1-2  |
+| @#6495ed:Row2-1 | Row2-2 |
+
+This seems to work ok with the markdown table syntax
+
+
+## syntaxhighlightjs
+
+syntaxhighlightjs is the plugin used for highlighting code blocks.  
+The name after the 3 single back ticks is the name of the language to highlight for
+
+  * https://www.dokuwiki.org/plugin:syntaxhighlightjs
+
+~~~
+```py
+# Example Python code
+def my_function():
+  print("Hello from a function") 
+```
+~~~
+
+```py
+# Example Python code
+def my_function():
+  print("Hello from a function") 
+```
+
+## dw2pdf / bookcreator
+
+dw2pdf is an addon for exporting pages as a pdf.  
+There's also a seperate plugin called bookcreator installed for generating a pdf of multiple pages.
+
+  * https://www.dokuwiki.org/plugin:dw2pdf
+  * https://www.dokuwiki.org/plugin:bookcreator
+
+## Gallery
+
+The gallery plugin allows us to show all the images in a namespace / directory
+
+  * https://www.dokuwiki.org/plugin:gallery
+
+```
+{{gallery>:wiki}}
+```
+
+## searchtablejs
+
+searchtablejs allows for filterable tables.  
+However it does rely on the dokuwiki syntax to work, also the sortable aspect doesn't seem to work with the bootstrap theme.
+
+  * https://www.dokuwiki.org/plugin:searchtablejs
+
+~~~
+```dokuwiki
+<searchtable>
+^ Test ^ Col1 ^ Col2 ^
+| Row1 | Val1 | Val2 |
+| Row2 | Val3 | Val4 |
+</searchtable>
+```
+~~~
+
+```dokuwiki
+<searchtable>
+<sortable>
+^ Test ^ Col1 ^ Col2 ^
+| Row1 | Val1 | Val2 |
+| Row2 | Val3 | Val4 |
+</sortable>
+</searchtable>
+```
+
+## Barcode
+
+The barcode plugin allows us to create QR Codes for pages
+
+  * https://www.dokuwiki.org/plugin:barcode
+
+For example this creates a barcode which links to the current url of this page
+~~~
+```dokuwiki
+~~BARCODE~~
+```
+~~~
+
+```dokuwiki
+~~BARCODE~~
+```
+
+## Wrap
+
+The Wrap plugin allows for highlighting warnings or errors, things to watch out for
+
+  * https://www.dokuwiki.org/plugin:wrap
+
+~~~
+```dokuwiki
+<WRAP center round important 60%>
+important box
+</WRAP>
+```
+~~~
+
+```dokuwiki
+<WRAP center round important 60%>
+important box
+</WRAP>
+```
+
+## Draw IO
+
+This one is very handy, it allows us to embed a draw.io flow chart editor directly into the page.
+The file is then saved in the normal file attachment area in the wiki
+
+  * https://www.dokuwiki.org/plugin:drawio
+
+```
+{{drawio>wiki:diagram1.png}}
+```
+
+{{drawio>wiki:diagram1.png}}
+
+## Googlemaps3
+
+For when we want to insert a map into a page
+
+  * https://www.dokuwiki.org/plugin:googlemaps3
+
+~~~
+```dokuwiki
+<googlemaps3 lat="53.48448852558447" lng="-2.2138890729819662" zoom="15">
+53.48444383692624, -2.2139534459987114, Manchester Hackspace
+</googlemaps3>
+```
+~~~
+
+```dokuwiki
+<googlemaps3 lat="53.48448852558447" lng="-2.2138890729819662" zoom="15">
+53.48444383692624, -2.2139534459987114, Manchester Hackspace
+</googlemaps3>
+```
+
+## xkcd
+
+The xkcd plugin adds a small webcomic to the page
+
+  * https://www.dokuwiki.org/plugin:xkcd
+
+```
+[xkcd]
+```
+
+[xkcd]
+
+## Backend Plugins
+
+  * Git Backed allows us to backup the wiki content to a git repo  
+    https://www.dokuwiki.org/plugin:gitbacked
+  * Preregister for email verification  
+    https://www.dokuwiki.org/plugin:preregister
+  * Captcha plugin  
+    https://www.dokuwiki.org/plugin:captcha

@@ -1,0 +1,6 @@
+# Asbestos
+
+Please see the pdfs below for our own asbestos survey of the space alongside the wider asbestos survey for the entire building as carried out by the landlords
+
+  - {{ :health-safety:asbestos_wellingtonhouse.pdf |Wellington House Full Survey}}
+  - {{ :health-safety:asbestos_hacman.pdf |Hackspace Manchester Survey}}

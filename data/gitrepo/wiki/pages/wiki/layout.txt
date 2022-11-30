@@ -1,0 +1,45 @@
+# Page Layouts
+
+## URL Paths
+
+Unlike mediawiki dokuwiki uses a folder based approach for storing it's content.  
+In the url for example this page will be `/doku.php?id=wiki:layout`  
+The `wiki:layout` represents the path to the page with the `:` acting as a directory seperator.
+
+## Adding / Removing Pages
+
+Lets say I want to creat
+e a page within `tools:woodworking:bandsaw`  
+
+  * First I type in the url in the browser to point to `/doku.php?id=tools:woodworking:bandsaw`
+  * Next dokuwiki will tell me the page doesn't exist.
+  * Then I just click the option for creating a new page and add some content.
+
+If I want to delete the page,
+
+  * Navigate to the page to be removed.
+  * Edit the page
+  * Delete all of its content then click save
+ 
+This will cause it to not show in the menu and be deleted.
+
+## Creating a page on the folder
+
+If I want to create a page that can be visited by clicking on the folder in the index menu.  
+Then I just need to end the name of the page with `:start`  
+So for example `tools:woodworking:start`
+
+## Overriding the Sidebar
+
+If you create a page called `sidebar` at any point 
+within the directory structure.  
+Then this will override the default sidebar on the left hand side with the menu.
+
+Typically the default root sidebar is hidden in the menu, but you can navigate to it via `/doku.php?id=sidebar`  
+The contents is the indexmenu plugin for showing page navigation.
+
+  * https://www.dokuwiki.org/plugin:indexmenu
+
+```
+{{indexmenu>:|navbar js#wb.png}}
+```
