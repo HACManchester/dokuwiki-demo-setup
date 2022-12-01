@@ -28,6 +28,9 @@
   html.js body.custom.dokuwiki.mode_show.tpl_bootstrap3.loggedIn.dw-page-on-panel.dw-fluid-container div.dokuwiki main.dw-container.pb-5.dokuwiki.container-fluid.mx-5 div.row article#dokuwiki__content.col-sm-9.col-md-10 {
     width: 82%;
   }
+  html.js body.custom.dokuwiki.mode_show.tpl_bootstrap3.home.dw-page-on-panel.dw-fluid-container div.dokuwiki main.dw-container.pb-5.dokuwiki.container-fluid.mx-5 div.row article#dokuwiki__content.col-sm-9.col-md-10 {
+    width: 82%;
+  }
   #dokuwiki__aside {
     width: 18%;
   }
